@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Competitive Edge</title>
+  <desc id="desc">An angular C framing a forward-cut E.</desc>
+  <path fill="#0067A5" fill-rule="evenodd" d="M20 6h35l-8 9H24l-9 9v16l9 9h23l8 9H20L5 43V21L20 6Zm5 17h18l-7 8H25v-8Zm0 10h14l-7 8h-7v-8Z"/>
+  <path fill="#7BAE3C" d="M29 18h26l-8 9H29v-9Zm0 13h20l-8 9H29v-9Zm0 13h26l-8 9H29v-9Z"/>
+  <path fill="#62B5D8" d="m49 6 10 5-10 5 4-5-4-5Z"/>
+</svg>

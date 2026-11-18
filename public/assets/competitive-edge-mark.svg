@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Competitive Edge</title>
+  <defs><linearGradient id="g" x1="8" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse"><stop stop-color="#5b4cf0"/><stop offset="1" stop-color="#ff7a45"/></linearGradient></defs>
+  <rect width="64" height="64" rx="18" fill="#241f51"/>
+  <path d="M43.5 17.5a19 19 0 1 0 0 29" fill="none" stroke="url(#g)" stroke-width="8" stroke-linecap="round"/>
+  <path d="M32 22h17M32 32h14M32 42h17" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+</svg>

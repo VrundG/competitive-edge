@@ -1,0 +1,62 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1791211308701,
+      "tag": "0000_nosy_wonder_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1791253878362,
+      "tag": "0001_loud_lord_hawal",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1791322287978,
+      "tag": "0002_youthful_hobgoblin",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1791648083131,
+      "tag": "0003_careless_lifeguard",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1791655780935,
+      "tag": "0004_black_darwin",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1791690155708,
+      "tag": "0005_fantastic_spectrum",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "6",
+      "when": 1791692820780,
+      "tag": "0006_busy_praxagora",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "6",
+      "when": 1791919732813,
+      "tag": "0007_reset_edge_bot",
+      "breakpoints": true
+    }
+  ]
+}

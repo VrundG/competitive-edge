@@ -1,0 +1,1 @@
+ALTER TABLE `student_accounts` ADD `profile_image` text;

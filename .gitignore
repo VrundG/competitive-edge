@@ -1,0 +1,7 @@
+node_modules/
+dist/
+pages-dist/
+.sites-runtime/
+.local/
+.DS_Store
+public/practice-catalog.js

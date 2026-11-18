@@ -1,0 +1,13 @@
+{
+  "name": "Competitive Edge",
+  "short_name": "Comp. Edge",
+  "description": "Prep, Practice, Win — economics and personal finance competition preparation for North Carolina students.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0067a5",
+  "icons": [
+    {"src":"assets/competitive-edge-mark-v2.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}
+  ]
+}
